@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "98107b5420ce9a47cd30e8a50674f6f7"
+build_time: [513418256, 45949000]
+inputs:
+  "/Users/Vidyadhar/Desktop/Github/TSA-Randomizer-App/TSA-Randomizer/TSA-Randomizer/ViewController.swift": [513418254, 0]
+  "/Users/Vidyadhar/Desktop/Github/TSA-Randomizer-App/TSA-Randomizer/TSA-Randomizer/AppDelegate.swift": [513417846, 0]
